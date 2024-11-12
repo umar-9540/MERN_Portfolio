@@ -40,16 +40,16 @@ function Projects() {
           <div className="flex flex-col gap-5">
             <h1 className="text-secondary text-2xl">
               {projects[selectedItemIndex].title}
-            </h1>
+            </p>
             <h1 className="text-white text-xl">
               {projects[selectedItemIndex].description}
-            </h1>
-            <p className="text-white">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione
-              quis sed totam dolor laboriosam, sequi alias sunt porro error
-              eius, quaerat cumque recusandae quae soluta nobis molestiae
-              laborum nihil. Eveniet?
             </p>
+            // <p className="text-white">
+            //   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione
+            //   quis sed totam dolor laboriosam, sequi alias sunt porro error
+            //   eius, quaerat cumque recusandae quae soluta nobis molestiae
+            //   laborum nihil. Eveniet?
+            // </p>
           </div>
         </div>
       </div>
