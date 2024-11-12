@@ -8,6 +8,10 @@
   font-family: "Montserrat", sans-serif;
 }
 
+p {
+  font-size: 1.06rem;
+}
+
 .header h1 {
   margin: 0 !important;
   padding: 0 !important;
