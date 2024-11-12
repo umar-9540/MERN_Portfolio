@@ -40,8 +40,8 @@ function Projects() {
           <div className="flex flex-col gap-5">
             <h1 className="text-secondary text-2xl">
               {projects[selectedItemIndex].title}
-            </p>
-            <h1 className="text-white text-xl">
+            </h1>
+            <p className="text-white text-xl">
               {projects[selectedItemIndex].description}
             </p>
             // <p className="text-white">
