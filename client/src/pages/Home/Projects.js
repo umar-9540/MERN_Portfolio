@@ -41,7 +41,7 @@ function Projects() {
             <h1 className="text-secondary text-2xl">
               {projects[selectedItemIndex].title}
             </h1>
-            <p className="text-white text-xl">
+            <p className="text-white">
               {projects[selectedItemIndex].description}
             </p>
             // <p className="text-white">
